@@ -1,5 +1,6 @@
 {
   "owner": "ncipollo",
   "name": "release-action",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "An action which manages a github release"
 }

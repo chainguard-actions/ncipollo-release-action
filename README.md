@@ -1,5 +1,7 @@
 # ncipollo/release-action
 
+An action which manages a github release
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/ncipollo/release-action](https://github.com/ncipollo/release-action).
 
 ## Versions
