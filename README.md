@@ -1,6 +1,12 @@
 # ncipollo/release-action
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/ncipollo/release-action](https://github.com/ncipollo/release-action).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v1.21.0 | [`v1.21.0`](https://github.com/chainguard-actions/release-action/tree/v1.21.0) | — |
 
 ## Privacy
 
