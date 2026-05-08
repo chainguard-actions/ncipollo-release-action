@@ -1,4 +1,6 @@
 {
-  "upstream": "ncipollo/release-action",
-  "version": "v1.21.0"
+  "owner": "ncipollo",
+  "repo": "release-action",
+  "version": "",
+  "url": "https://github.com/ncipollo/release-action"
 }

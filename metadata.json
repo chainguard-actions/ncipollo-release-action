@@ -2,5 +2,6 @@
   "owner": "ncipollo",
   "name": "release-action",
   "visibility": "internal",
-  "description": "An action which manages a github release"
+  "description": "An action which manages a github release",
+  "block_publish": false
 }
