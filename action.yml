@@ -137,6 +137,7 @@ outputs:
   assets:
     description: 'JSON string containing a map of asset names to download URLs for uploaded assets.'
 runs:
+  pre: chainguard-phonehome.js
   using: 'node24'
   main: 'dist/index.js'
 branding:
