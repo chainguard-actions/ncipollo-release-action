@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v1.21.0 | [`v1.21.0`](https://github.com/chainguard-actions/ncipollo-release-action/tree/v1.21.0) | — |
+| v1.21.0 | [`v1.21.0`](https://github.com/chainguard-actions/ncipollo-release-action/tree/v1.21.0) | [`339a818`](https://github.com/ncipollo/release-action/commit/339a81892b84b4eeb0f6e744e4574d79d0d9b8dd) |
 
 ## Privacy
 
